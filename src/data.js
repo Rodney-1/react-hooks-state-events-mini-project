@@ -30,3 +30,6 @@ export const TASKS = [
     category: "Misc",
   },
 ];
+
+
+export default { TASKS, CATEGORIES };
